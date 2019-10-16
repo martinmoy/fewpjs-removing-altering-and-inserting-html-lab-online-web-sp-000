@@ -1,4 +1,4 @@
 main.remove();
 
-let newHeader = document.createElement('h1')
-newHeader.textContext = 'is the champion';
+let newHeader = document.createElement('h1').setAttribute("id","victory" );
+
